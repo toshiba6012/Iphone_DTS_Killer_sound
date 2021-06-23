@@ -1,0 +1,7 @@
+To install empty contents of home folder to home directory. Then install Termius app from Istore and issue these commands:
+
+export LD_LIBRARY_PATH=~/dTS
+export LD_PRELOAD_LIBRARY=~/dTS/libdcaenc.tbd
+reboot
+
+Once your device has rebooted you have completed installation. Digital Theater Sound only works with auxillary cable and Poweramp.
